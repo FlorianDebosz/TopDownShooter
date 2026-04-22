@@ -1,0 +1,37 @@
+# Compiled binaries
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Plugins (binaires seulement, garder le source si tu en as)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Visual Studio
+.vs/
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Rider / CLion
+.idea/
+*.iml
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fichiers de log UE
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.bak
